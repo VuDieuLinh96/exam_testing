@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "707056342136",
+    "project_id": "testing-firebaseauth-715ab",
+    "storage_bucket": "testing-firebaseauth-715ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707056342136:android:049bea6fcf0048cfda498d",
+        "android_client_info": {
+          "package_name": "com.fssc.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707056342136-8j52gkril110gu1fav782h5kshhc7csp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADohv5dMsDkkk6WrEQr1qqlqhFWYZxMow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707056342136-8j52gkril110gu1fav782h5kshhc7csp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707056342136-2u4vndjs8kvrc98lt4a1pglmvlkv4iv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examTesting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
